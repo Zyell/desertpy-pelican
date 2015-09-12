@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2015-03-18T06:47:00-07:00</updated><entry><title>March 2015 Meeting - Python Internals and Freezing</title><link href="http://desertpy.com/posts/2015/Mar/18/mar-2015-meeting/" rel="alternate"></link><updated>2015-03-18T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2015-03-18:posts/2015/Mar/18/mar-2015-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2015-09-12T06:47:00-07:00</updated><entry><title>Summer 2015 Roundup</title><link href="http://desertpy.com/posts/2015/Sep/12/summer-2015-roundup/" rel="alternate"></link><updated>2015-09-12T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2015-09-12:posts/2015/Sep/12/summer-2015-roundup/</id><summary type="html">&lt;p&gt;Those of you following this DesertPy website might have mistakenly thought the
+group had gone dormant during the summer, but nothing could be further from
+the truth!  I've merely been a lazy web master.  With help from many members,
+the group hosted a full day Data Science Workshop in May, we've continued
+typical monthly meetings, and we started holding regular monthly group coding
+meetings.&lt;/p&gt;
+&lt;p&gt;It's also worth noting that DesertPy has recently passed the 500 user milestone
+on Meetup.&lt;/p&gt;
+&lt;p&gt;Thank you all for all your contributions!&lt;/p&gt;
+</summary></entry><entry><title>March 2015 Meeting - Python Internals and Freezing</title><link href="http://desertpy.com/posts/2015/Mar/18/mar-2015-meeting/" rel="alternate"></link><updated>2015-03-18T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2015-03-18:posts/2015/Mar/18/mar-2015-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
 &lt;dt&gt;What&lt;/dt&gt;
 &lt;dd&gt;Andy will talk about Python internals and freezing applications.&lt;/dd&gt;
 &lt;dt&gt;When&lt;/dt&gt;
